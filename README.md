@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="assets/noe-cagomoc.webp" alt="Noe P. Cagomoc" width="160" height="160">
+<img src="assets/noe-cagomoc-circle.png" alt="Noe P. Cagomoc" width="180" height="180">
 
 # Noe P. Cagomoc
 
 ### Networks & systems. IT support & automation.
 
 I’ve worked in IT for six years, from user support to managing servers and networks. I also build tools that cut down repetitive work.
-
-Las Piñas, Philippines
 
 <a href="https://npcagomoc-del.github.io/"><img src="assets/portfolio.svg" alt="Portfolio" width="96" height="36"></a> <a href="https://www.linkedin.com/in/npcagomoc/"><img src="assets/linkedin.svg" alt="LinkedIn" width="96" height="36"></a> <a href="mailto:npcagomoc@outlook.com"><img src="assets/email.svg" alt="Email" width="96" height="36"></a>
 
@@ -25,7 +23,7 @@ ICT Administration Supervisor / Database & Server Admin at Leonio Group.
 
 AI Engineer Intern at [Clauto](https://clauto.io/), 2026. Learned agentic programming with Codex, Claude Code, OpenCode and harness tools such as Oh My OpenCode, including how different models work and when to use them.
 
-## Selected work
+## Projects
 
 | Project | What it does |
 | --- | --- |
@@ -38,15 +36,37 @@ AI Engineer Intern at [Clauto](https://clauto.io/), 2026. Learned agentic progra
 
 [More projects and experience](https://npcagomoc-del.github.io/#work)
 
-## Tools I use
+## Toolkit
 
-| Area | Tools and skills |
-| --- | --- |
-| Systems & applications | Windows Server, Linux, Microsoft 365, Database administration, Synology NAS, Docker, Backup operations |
-| Networks & security | UniFi, Cisco networking, LAN / WAN, Fiber optic connectivity, Network troubleshooting |
-| Support, CCTV & access systems | Technical support, Cisco Secure Endpoint, Hikvision CCTV, ZKTeco, Anviz, IT asset management |
-| Automation & development | Zabbix & Grafana, Python, API reporting, OpenAI Codex, Claude, OpenCode, Oh My OpenCode, Git & GitHub |
-| Project management | Requirements gathering, Vendor coordination, Deployment planning, Technical documentation |
+### Systems & applications
+
+<img src="assets/tool-windows-server.png" alt="Windows Server" width="140" height="48"> <img src="assets/tool-linux.png" alt="Linux" width="140" height="48"> <img src="assets/tool-microsoft-365.png" alt="Microsoft 365" width="140" height="48"> <img src="assets/tool-synology-nas.png" alt="Synology NAS" width="140" height="48"> <img src="assets/tool-docker.png" alt="Docker" width="140" height="48">
+
+Windows Server, Linux, Microsoft 365, Database administration, Synology NAS, Docker, Backup operations.
+
+### Networks & security
+
+<img src="assets/tool-unifi.png" alt="UniFi" width="140" height="48"> <img src="assets/tool-cisco-networking.png" alt="Cisco networking" width="140" height="48"> <img src="assets/tool-lan-wan.png" alt="LAN / WAN" width="140" height="48"> <img src="assets/tool-fiber-optic-connectivity.png" alt="Fiber optic connectivity" width="140" height="48">
+
+UniFi, Cisco networking, LAN / WAN, Fiber optic connectivity, Network troubleshooting.
+
+### Support, CCTV & access systems
+
+<img src="assets/tool-cisco-secure-endpoint.png" alt="Cisco Secure Endpoint" width="140" height="48"> <img src="assets/tool-hikvision-cctv.png" alt="Hikvision CCTV" width="140" height="48"> <img src="assets/tool-zkteco.png" alt="ZKTeco" width="140" height="48"> <img src="assets/tool-anviz.png" alt="Anviz" width="140" height="48">
+
+Technical support, Cisco Secure Endpoint, Hikvision CCTV, ZKTeco, Anviz, IT asset management.
+
+### Automation & development
+
+<img src="assets/tool-zabbix-grafana.png" alt="Zabbix &amp; Grafana" width="140" height="48"> <img src="assets/tool-python.png" alt="Python" width="140" height="48"> <img src="assets/tool-api-reporting.png" alt="API reporting" width="140" height="48"> <img src="assets/tool-openai-codex.png" alt="OpenAI Codex" width="140" height="48"> <img src="assets/tool-claude.png" alt="Claude" width="140" height="48"> <img src="assets/tool-opencode.png" alt="OpenCode" width="140" height="48"> <img src="assets/tool-oh-my-opencode.png" alt="Oh My OpenCode" width="140" height="48"> <img src="assets/tool-git-github.png" alt="Git &amp; GitHub" width="140" height="48">
+
+Zabbix & Grafana, Python, API reporting, OpenAI Codex, Claude, OpenCode, Oh My OpenCode, Git & GitHub.
+
+### Project management
+
+<img src="assets/tool-requirements-gathering.png" alt="Requirements gathering" width="140" height="48"> <img src="assets/tool-vendor-coordination.png" alt="Vendor coordination" width="140" height="48"> <img src="assets/tool-deployment-planning.png" alt="Deployment planning" width="140" height="48"> <img src="assets/tool-technical-documentation.png" alt="Technical documentation" width="140" height="48">
+
+Requirements gathering, Vendor coordination, Deployment planning, Technical documentation.
 
 ## Certifications
 
