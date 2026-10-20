@@ -40,31 +40,29 @@ AI Engineer Intern at [Clauto](https://clauto.io/), 2026. Learned agentic progra
 
 ### Systems & applications
 
-<img src="assets/tool-windows-server.png" alt="Windows Server" width="140" height="48"> <img src="assets/tool-linux.png" alt="Linux" width="140" height="48"> <img src="assets/tool-microsoft-365.png" alt="Microsoft 365" width="140" height="48"> <img src="assets/tool-synology-nas.png" alt="Synology NAS" width="140" height="48"> <img src="assets/tool-docker.png" alt="Docker" width="140" height="48">
+<img src="assets/tool-windows-server-a002e75589b8.png" alt="Windows Server" width="140" height="48"> <img src="assets/tool-linux-5bd69d2449fc.png" alt="Linux" width="140" height="48"> <img src="assets/tool-microsoft-365-cf284bace006.png" alt="Microsoft 365" width="140" height="48"> <img src="assets/tool-synology-nas-78f7a8329a88.png" alt="Synology NAS" width="140" height="48"> <img src="assets/tool-docker-ec438639915c.png" alt="Docker" width="140" height="48">
 
 Windows Server, Linux, Microsoft 365, Database administration, Synology NAS, Docker, Backup operations.
 
 ### Networks & security
 
-<img src="assets/tool-unifi.png" alt="UniFi" width="140" height="48"> <img src="assets/tool-cisco-networking.png" alt="Cisco networking" width="140" height="48"> <img src="assets/tool-lan-wan.png" alt="LAN / WAN" width="140" height="48"> <img src="assets/tool-fiber-optic-connectivity.png" alt="Fiber optic connectivity" width="140" height="48">
+<img src="assets/tool-unifi-f1a89422a488.png" alt="UniFi" width="140" height="48"> <img src="assets/tool-cisco-networking-62a09560d82d.png" alt="Cisco networking" width="140" height="48">
 
 UniFi, Cisco networking, LAN / WAN, Fiber optic connectivity, Network troubleshooting.
 
 ### Support, CCTV & access systems
 
-<img src="assets/tool-cisco-secure-endpoint.png" alt="Cisco Secure Endpoint" width="140" height="48"> <img src="assets/tool-hikvision-cctv.png" alt="Hikvision CCTV" width="140" height="48"> <img src="assets/tool-zkteco.png" alt="ZKTeco" width="140" height="48"> <img src="assets/tool-anviz.png" alt="Anviz" width="140" height="48">
+<img src="assets/tool-cisco-secure-endpoint-1b2f605e221e.png" alt="Cisco Secure Endpoint" width="140" height="48"> <img src="assets/tool-hikvision-cctv-ea538ad1032d.png" alt="Hikvision CCTV" width="140" height="48"> <img src="assets/tool-zkteco-6770f6ceddbb.png" alt="ZKTeco" width="140" height="48"> <img src="assets/tool-anviz-64546dc4f40d.png" alt="Anviz" width="140" height="48">
 
 Technical support, Cisco Secure Endpoint, Hikvision CCTV, ZKTeco, Anviz, IT asset management.
 
 ### Automation & development
 
-<img src="assets/tool-zabbix-grafana.png" alt="Zabbix &amp; Grafana" width="140" height="48"> <img src="assets/tool-python.png" alt="Python" width="140" height="48"> <img src="assets/tool-api-reporting.png" alt="API reporting" width="140" height="48"> <img src="assets/tool-openai-codex.png" alt="OpenAI Codex" width="140" height="48"> <img src="assets/tool-claude.png" alt="Claude" width="140" height="48"> <img src="assets/tool-opencode.png" alt="OpenCode" width="140" height="48"> <img src="assets/tool-oh-my-opencode.png" alt="Oh My OpenCode" width="140" height="48"> <img src="assets/tool-git-github.png" alt="Git &amp; GitHub" width="140" height="48">
+<img src="assets/tool-zabbix-3c4e4e036fbb.png" alt="Zabbix" width="140" height="48"> <img src="assets/tool-grafana-96ef2b2b7462.png" alt="Grafana" width="140" height="48"> <img src="assets/tool-python-02458c382b24.png" alt="Python" width="140" height="48"> <img src="assets/tool-openai-codex-1a4a57ca4410.png" alt="OpenAI Codex" width="140" height="48"> <img src="assets/tool-claude-c5788206a594.png" alt="Claude" width="140" height="48"> <img src="assets/tool-opencode-f22be52433e8.png" alt="OpenCode" width="140" height="48"> <img src="assets/tool-oh-my-opencode-f10a54edce01.png" alt="Oh My OpenCode" width="140" height="48"> <img src="assets/tool-git-d3699a00078c.png" alt="Git" width="140" height="48"> <img src="assets/tool-github-6f205d1f453c.png" alt="GitHub" width="140" height="48">
 
 Zabbix & Grafana, Python, API reporting, OpenAI Codex, Claude, OpenCode, Oh My OpenCode, Git & GitHub.
 
 ### Project management
-
-<img src="assets/tool-requirements-gathering.png" alt="Requirements gathering" width="140" height="48"> <img src="assets/tool-vendor-coordination.png" alt="Vendor coordination" width="140" height="48"> <img src="assets/tool-deployment-planning.png" alt="Deployment planning" width="140" height="48"> <img src="assets/tool-technical-documentation.png" alt="Technical documentation" width="140" height="48">
 
 Requirements gathering, Vendor coordination, Deployment planning, Technical documentation.
 
