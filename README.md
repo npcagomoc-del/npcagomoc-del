@@ -8,7 +8,7 @@
 
 I’ve worked in IT for six years, from user support to managing servers and networks. I also build tools that cut down repetitive work.
 
-<a href="https://npcagomoc-del.github.io/"><img src="assets/portfolio.svg" alt="Portfolio" width="96" height="36"></a> <a href="https://www.linkedin.com/in/npcagomoc/"><img src="assets/linkedin.svg" alt="LinkedIn" width="96" height="36"></a> <a href="mailto:npcagomoc@outlook.com"><img src="assets/email.svg" alt="Email" width="96" height="36"></a>
+<a href="https://npcagomoc-del.github.io/"><img src="assets/portfolio-abd741e7449e.svg" alt="Portfolio" width="96" height="36"></a> <a href="https://www.linkedin.com/in/npcagomoc/"><img src="assets/linkedin-2062e8badb69.svg" alt="LinkedIn" width="96" height="36"></a> <a href="mailto:npcagomoc@outlook.com"><img src="assets/email-1d678df63983.svg" alt="Email" width="96" height="36"></a>
 
 </div>
 
